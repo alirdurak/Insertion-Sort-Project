@@ -18,11 +18,11 @@
 - 18 Sayısı dizinin orta kısımlarında kaldığından dolayı Average Case kapsamına girer.
 
 ##[7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımı
-[7,3,5,8,2,9,4,15,6]----- Başlangıç durumu.
-[2,3,5,8,7,9,4,15,6]----- Birinci adım.
-[2,3,5,8,7,9,4,15,6] ----- İkinci adım. İkinci eleman yerinde odluğundan dolayı dizi değişmedi.
-[2,3,5,8,7,9,4,15,6]----- Üçüncü adım. Üçüncü eleman yerinde olduğundan dolayı dizi değişmedi.
-[2,3,5,7,8,9,4,15,6]------ Dördüncü adım.
+- [7,3,5,8,2,9,4,15,6]----- Başlangıç durumu.
+- [2,3,5,8,7,9,4,15,6]----- Birinci adım.
+- [2,3,5,8,7,9,4,15,6] ----- İkinci adım. İkinci eleman yerinde odluğundan dolayı dizi değişmedi.
+- [2,3,5,8,7,9,4,15,6]----- Üçüncü adım. Üçüncü eleman yerinde olduğundan dolayı dizi değişmedi.
+- [2,3,5,7,8,9,4,15,6]------ Dördüncü adım.
  
 
 
